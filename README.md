@@ -6,9 +6,7 @@ Flash Card App
 A app which displays a question and then reveals the answers when clicked. Created using java and android studio.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+https://github.com/doubleaspeaks/FlashCard_App/blob/master/Flashcard.gif
 
 ## Required
 - [X] Create New Project in Android Studio
