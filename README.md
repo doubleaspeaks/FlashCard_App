@@ -5,7 +5,7 @@ Flash Card App
 Flash Card App now creates and saves questions, plus has multiple features.
 
 
-<img src="" width=200><br>
+<img src="https://github.com/doubleaspeaks/FlashCard_App/blob/master/Flashcard_2.gif" width=200><br>
 
 ## Required
 - [X] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
