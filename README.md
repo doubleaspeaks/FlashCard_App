@@ -1,11 +1,31 @@
 Flash Card App
+
+## Lab 3
+
+### App Description
+Creating an index of questions, using Andrioid's native database library and storing questions for future use.
+### App Walk-though
+
+
+<img src="https://github.com/doubleaspeaks/FlashCard_App/blob/master/Flashcard%233.gif" width=200><br>
+
+
+## Required
+- [X] User can create a card and still see their created card when the app is relaunched.
+- [X] User can create muliple cards and browse through all created cards
+
+## Optional
+- [ ] User can delete a card and no longer see it in their deck anymore
+- [ ] Flashcards are shown in random order instead of the order they were created in
+- [ ] User can edit a card and see the edit saved when they browse through their deck of cards
+- [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
 ## Lab 2
 
 
 Flash Card App now creates and saves questions, plus has multiple features.
 
 
-<img src="https://github.com/doubleaspeaks/FlashCard_App/blob/master/Flashcard%232.gif" width=200><br>
+<img src="https://github.com/doubleaspeaks/FlashCard_App/blob/master/Flashcard_2.gif" width=200><br>
 
 ## Required
 - [X] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
